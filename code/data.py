@@ -40,7 +40,7 @@ def visualize_data(data, filtered_data):
     """
     Create a scatter plot to visualize the relationship between:
     - Elector Ratio (x-axis) and Voter Turnout (y-axis).
-    Highlight the filtered regions in red and annotate their names.
+    Highlight the filtered regions in red.
     """
 
     # Plot all data points
@@ -50,11 +50,6 @@ def visualize_data(data, filtered_data):
                 filtered_data['Percentage of Voter Turnout'], 
                 color='red', label='High Ratio & Low Turnout')
 
-    # Annotate the highlighted points
-    for _, row in filtered_data.iterrows():
-        plt.annotate(row['Electoral District Name'], 
-                     (row['Elector Ratio'], row['Percentage of Voter Turnout']),
-                     textcoords="offset points", xytext=(5, -3), fontsize=5, color='red')
 
     # Add titles and labels
     plt.title('Relationship Between Elector Ratio and Voter Turnout', fontsize=16)

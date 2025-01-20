@@ -1,0 +1,339 @@
+,Province,Electoral District Name,Elector Ratio,Percentage of Voter Turnout
+0,Newfoundland and Labrador,Avalon,0.8132471616528314,59.3
+1,Newfoundland and Labrador,Bonavista--Burin--Trinity,0.8117815316530843,54.5
+2,Newfoundland and Labrador,Coast of Bays--Central--Notre Dame,0.8192456230690011,54.9
+3,Newfoundland and Labrador,Labrador,0.7421406772805824,57.3
+4,Newfoundland and Labrador,Long Range Mountains,0.816701905191039,55.2
+5,Newfoundland and Labrador,St. John's East/St. John's-Est,0.78656195666126,67.6
+6,Newfoundland and Labrador,St. John's South--Mount Pearl/St. John's-Sud--Mount Pearl,0.8251259468888373,61.0
+7,Prince Edward Island,Cardigan,0.8157585688925304,75.0
+8,Prince Edward Island,Charlottetown,0.7679669751205186,72.8
+9,Prince Edward Island,Egmont,0.8357820182627019,71.6
+10,Prince Edward Island,Malpeque,0.8486261448792672,76.3
+11,Nova Scotia,Cape Breton--Canso,0.8440615744024029,71.7
+12,Nova Scotia,Central Nova/Nova-Centre,0.847044273366499,73.6
+13,Nova Scotia,Cumberland--Colchester,0.8309591760764363,68.5
+14,Nova Scotia,Dartmouth--Cole Harbour,0.8384524544696157,69.7
+15,Nova Scotia,Halifax,0.8122080118380721,73.0
+16,Nova Scotia,Halifax West/Halifax-Ouest,0.8054750402576489,70.7
+17,Nova Scotia,Kings--Hants,0.8426526088779728,68.8
+18,Nova Scotia,Sackville--Preston--Chezzetcook,0.8296029966010775,69.5
+19,Nova Scotia,South Shore--St. Margarets,0.8545137754546445,67.5
+20,Nova Scotia,Sydney--Victoria,0.836086932416699,68.1
+21,Nova Scotia,West Nova/Nova-Ouest,0.8551312998317606,67.4
+22,New Brunswick/Nouveau-Brunswick,Acadie--Bathurst,0.8604722911390777,73.3
+23,New Brunswick/Nouveau-Brunswick,Beauséjour,0.8550162834783454,77.0
+24,New Brunswick/Nouveau-Brunswick,Fredericton,0.7995630409469047,74.6
+25,New Brunswick/Nouveau-Brunswick,Fundy Royal,0.8198716585567216,74.8
+26,New Brunswick/Nouveau-Brunswick,Madawaska--Restigouche,0.841829805558316,69.1
+27,New Brunswick/Nouveau-Brunswick,Miramichi--Grand Lake,0.8460935458583747,72.3
+28,New Brunswick/Nouveau-Brunswick,Moncton--Riverview--Dieppe,0.8094230893747437,69.6
+29,New Brunswick/Nouveau-Brunswick,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,0.8254170049167522,74.0
+30,New Brunswick/Nouveau-Brunswick,Saint John--Rothesay,0.802351221602006,65.2
+31,New Brunswick/Nouveau-Brunswick,Tobique--Mactaquac,0.8050762308330786,69.8
+32,Quebec,Abitibi--Baie-James--Nunavik--Eeyou,0.7429915591146753,49.8
+33,Quebec,Abitibi--Témiscamingue,0.7971611057966393,62.1
+34,Quebec,Ahuntsic-Cartierville,0.7099713062062036,67.3
+35,Quebec,Alfred-Pellan,0.782802126799049,69.7
+36,Quebec,Argenteuil--La Petite-Nation,0.8397072488280557,63.2
+37,Quebec,Avignon--La Mitis--Matane--Matapédia,0.8292140144929552,61.3
+38,Quebec,Beauce,0.7965442407077042,69.9
+39,Quebec,Beauport--Limoilou,0.8130877130866717,65.9
+40,Quebec,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,0.818338066058885,67.3
+41,Quebec,Bécancour--Nicolet--Saurel,0.838520742588912,67.3
+42,Quebec,Bellechasse--Les Etchemins--Lévis,0.8224866482264321,69.3
+43,Quebec,Beloeil--Chambly,0.8167338486317889,73.6
+44,Quebec,Berthier--Maskinongé,0.8433212780584033,67.7
+45,Quebec,Bourassa,0.6956904743051706,58.8
+46,Quebec,Brome--Missisquoi,0.863489179079231,69.9
+47,Quebec,Brossard--Saint-Lambert,0.7781599152274544,68.5
+48,Quebec,Charlesbourg--Haute-Saint-Charles,0.8011449456430529,70.2
+49,Quebec,Châteauguay--Lacolle,0.8007600600692636,68.2
+50,Quebec,Chicoutimi--Le Fjord,0.8053381349600068,68.1
+51,Quebec,Compton--Stanstead,0.8051754710361373,69.7
+52,Quebec,Dorval--Lachine--LaSalle,0.7579784877642514,62.4
+53,Quebec,Drummond,0.8131183690049034,66.5
+54,Quebec,Gaspésie--Les Îles-de-la-Madeleine,0.8558866183256427,60.3
+55,Quebec,Gatineau,0.787863842775255,66.8
+56,Quebec,Hochelaga,0.7782545823317307,65.1
+57,Quebec,Honoré-Mercier,0.7611591628697196,65.2
+58,Quebec,Hull--Aylmer,0.755167474553923,69.9
+59,Quebec,Joliette,0.8557847430283475,66.1
+60,Quebec,Jonquière,0.8123204702843528,69.0
+61,Quebec,La Pointe-de-l'Île,0.8072806951549805,66.0
+62,Quebec,La Prairie,0.8252635171001744,71.7
+63,Quebec,Lac-Saint-Jean,0.8064835908531994,65.5
+64,Quebec,Lac-Saint-Louis,0.7743117914145461,71.3
+65,Quebec,LaSalle--Émard--Verdun,0.7749002491429856,64.4
+66,Quebec,Laurentides--Labelle,0.8830909809779027,66.1
+67,Quebec,Laurier--Sainte-Marie,0.7429248446371887,64.9
+68,Quebec,Laval--Les Îles,0.7730896363989889,65.6
+69,Quebec,Lévis--Lotbinière,0.7908093157635121,72.1
+70,Quebec,Longueuil--Charles-LeMoyne,0.7873675914545472,62.7
+71,Quebec,Longueuil--Saint-Hubert,0.803280498238319,69.8
+72,Quebec,Louis-Hébert,0.797273237474116,76.4
+73,Quebec,Louis-Saint-Laurent,0.8090465548712875,70.6
+74,Quebec,Manicouagan,0.7828854925528005,56.7
+75,Quebec,Marc-Aurèle-Fortin,0.7727960687960688,72.2
+76,Quebec,Mégantic--L'Érable,0.8133389886854745,68.2
+77,Quebec,Mirabel,0.823173426716078,68.5
+78,Quebec,Montarville,0.7902178691558209,77.6
+79,Quebec,Montcalm,0.8224502458765894,63.2
+80,Quebec,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,0.8213489379965874,65.5
+81,Quebec,Mount Royal/Mont-Royal,0.7091850561362757,60.4
+82,Quebec,Notre-Dame-de-Grâce--Westmount,0.7301712805075542,66.2
+83,Quebec,Outremont,0.6645443147088786,61.8
+84,Quebec,Papineau,0.6983386004514672,66.9
+85,Quebec,Pierre-Boucher--Les Patriotes--Verchères,0.8125106476795575,76.1
+86,Quebec,Pierrefonds--Dollard,0.7695396318159632,67.2
+87,Quebec,Pontiac,0.7992746535561884,67.7
+88,Quebec,Portneuf--Jacques-Cartier,0.8080875530079003,70.7
+89,Quebec,Québec,0.8151488012517628,69.8
+90,Quebec,Repentigny,0.7985456550583289,72.0
+91,Quebec,Richmond--Arthabaska,0.8102795546520952,68.7
+92,Quebec,Rimouski-Neigette--Témiscouata--Les Basques,0.8254904731623448,66.4
+93,Quebec,Rivière-des-Mille-Îles,0.8048384890469583,72.0
+94,Quebec,Rivière-du-Nord,0.8564321124148507,63.8
+95,Quebec,Rosemont--La Petite-Patrie,0.775517948625279,71.0
+96,Quebec,Saint-Hyacinthe--Bagot,0.7988860000194755,69.9
+97,Quebec,Saint-Jean,0.8204694666786582,69.2
+98,Quebec,Saint-Laurent,0.6908062492411058,59.7
+99,Quebec,Saint-Léonard--Saint-Michel,0.6813412005794439,60.2
+100,Quebec,Saint-Maurice--Champlain,0.8323568889211347,65.1
+101,Quebec,Salaberry--Suroît,0.8512133728041409,66.8
+102,Quebec,Shefford,0.8200361709210988,68.3
+103,Quebec,Sherbrooke,0.8018996905807009,68.1
+104,Quebec,Terrebonne,0.7982254089177683,70.3
+105,Quebec,Thérèse-De Blainville,0.8126080125687353,71.9
+106,Quebec,Trois-Rivières,0.8366737546939329,66.7
+107,Quebec,Vaudreuil--Soulanges,0.8023266541974553,72.2
+108,Quebec,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,0.7763193469330798,59.7
+109,Quebec,Vimy,0.7907783349870828,64.0
+110,Ontario,Ajax,0.7788881740016879,66.0
+111,Ontario,Algoma--Manitoulin--Kapuskasing,0.8291835990085931,62.2
+112,Ontario,Aurora--Oak Ridges--Richmond Hill,0.7232679840662345,64.3
+113,Ontario,Barrie--Innisfil,0.7963051076990648,62.8
+114,Ontario,Barrie--Springwater--Oro-Medonte,0.8077747350875104,66.5
+115,Ontario,Bay of Quinte/Baie de Quinte,0.8584043377226955,65.8
+116,Ontario,Beaches--East York,0.7476340117659955,70.2
+117,Ontario,Brampton Centre/Brampton-Centre,0.6638310354942798,59.3
+118,Ontario,Brampton East/Brampton-Est,0.645311475409836,65.1
+119,Ontario,Brampton North/Brampton-Nord,0.6619478761211711,65.2
+120,Ontario,Brampton South/Brampton-Sud,0.6522592996006206,62.3
+121,Ontario,Brampton West/Brampton-Ouest,0.6782,61.7
+122,Ontario,Brantford--Brant,0.8335021796524835,61.8
+123,Ontario,Bruce--Grey--Owen Sound,0.830115435693125,65.4
+124,Ontario,Burlington,0.8134518590680305,72.4
+125,Ontario,Cambridge,0.7819907676052069,64.6
+126,Ontario,Carleton,0.8618608989681106,78.7
+127,Ontario,Chatham-Kent--Leamington,0.7898813161951851,63.0
+128,Ontario,Davenport,0.7563817724226305,65.3
+129,Ontario,Don Valley East/Don Valley-Est,0.7034331088296556,64.2
+130,Ontario,Don Valley North/Don Valley-Nord,0.6918038446164468,61.6
+131,Ontario,Don Valley West/Don Valley-Ouest,0.7219241425059507,71.2
+132,Ontario,Dufferin--Caledon,0.8293082339730343,64.9
+133,Ontario,Durham,0.825967357417935,68.0
+134,Ontario,Eglinton--Lawrence,0.7304427641068229,67.5
+135,Ontario,Elgin--Middlesex--London,0.817247853144665,66.2
+136,Ontario,Essex,0.8194703528323847,66.9
+137,Ontario,Etobicoke Centre/Etobicoke-Centre,0.7849214553218892,68.9
+138,Ontario,Etobicoke North/Etobicoke-Nord,0.6388935953913928,57.7
+139,Ontario,Etobicoke--Lakeshore,0.8076014285603613,67.2
+140,Ontario,Flamborough--Glanbrook,0.8087426281906991,70.0
+141,Ontario,Glengarry--Prescott--Russell,0.841600363719027,71.8
+142,Ontario,Guelph,0.815097804148899,70.8
+143,Ontario,Haldimand--Norfolk,0.8349779301791121,65.9
+144,Ontario,Haliburton--Kawartha Lakes--Brock,0.8711607989048404,66.7
+145,Ontario,Hamilton Centre/Hamilton-Centre,0.7529344774881872,59.1
+146,Ontario,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,0.7904829018618796,61.8
+147,Ontario,Hamilton Mountain,0.7789887201197594,65.4
+148,Ontario,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,0.7934509484711212,72.8
+149,Ontario,Hastings--Lennox and Addington,0.8526602567500239,66.4
+150,Ontario,Humber River--Black Creek,0.6435202754611846,55.3
+151,Ontario,Huron--Bruce,0.81088486440837,70.9
+152,Ontario,Kanata--Carleton,0.786598774333093,77.0
+153,Ontario,Kenora,0.7475861627981328,60.0
+154,Ontario,King--Vaughan,0.7589226864653964,64.3
+155,Ontario,Kingston and the Islands/Kingston et les Îles,0.8415728712045805,69.4
+156,Ontario,Kitchener Centre/Kitchener-Centre,0.7969370499154459,66.6
+157,Ontario,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,0.7610935437616918,65.7
+158,Ontario,Kitchener--Conestoga,0.7444716956776455,69.2
+159,Ontario,Lambton--Kent--Middlesex,0.8434174174744378,66.2
+160,Ontario,Lanark--Frontenac--Kingston,0.8599330906228476,72.0
+161,Ontario,Leeds--Grenville--Thousand Islands and Rideau Lakes/Leeds--Grenville--Thousand Islands et Rideau Lakes,0.8453742565591869,69.3
+162,Ontario,London North Centre/London-Centre-Nord,0.782047191333897,65.5
+163,Ontario,London West/London-Ouest,0.7960272777733725,71.5
+164,Ontario,London--Fanshawe,0.7863594130596734,59.7
+165,Ontario,Markham--Stouffville,0.7572423530904937,68.1
+166,Ontario,Markham--Thornhill,0.7317366115585701,61.8
+167,Ontario,Markham--Unionville,0.7207544721776221,60.7
+168,Ontario,Milton,0.7481002340196156,70.4
+169,Ontario,Mississauga Centre/Mississauga-Centre,0.7039543768872798,61.7
+170,Ontario,Mississauga East--Cooksville/Mississauga-Est--Cooksville,0.7170334012728256,61.6
+171,Ontario,Mississauga--Erin Mills,0.7239066579634464,66.4
+172,Ontario,Mississauga--Lakeshore,0.7698903307108068,67.9
+173,Ontario,Mississauga--Malton,0.6749830852503383,61.4
+174,Ontario,Mississauga--Streetsville,0.7435355576030633,67.3
+175,Ontario,Nepean,0.7869532365040719,74.7
+176,Ontario,Newmarket--Aurora,0.7825035343814407,67.4
+177,Ontario,Niagara Centre/Niagara-Centre,0.8340561306352976,64.3
+178,Ontario,Niagara Falls,0.8308044492706835,62.1
+179,Ontario,Niagara West/Niagara-Ouest,0.825458508553689,72.3
+180,Ontario,Nickel Belt,0.8167150108774475,64.2
+181,Ontario,Nipissing--Timiskaming,0.845056466958666,64.1
+182,Ontario,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,0.8645518272070597,71.5
+183,Ontario,Oakville,0.7470373708889128,72.9
+184,Ontario,Oakville North--Burlington/Oakville-Nord--Burlington,0.7568756875687569,71.7
+185,Ontario,Orléans,0.8288133082841574,77.1
+186,Ontario,Oshawa,0.8045501877504654,61.2
+187,Ontario,Ottawa Centre/Ottawa-Centre,0.8575119876649893,78.4
+188,Ontario,Ottawa South/Ottawa-Sud,0.7662360190982834,71.1
+189,Ontario,Ottawa West--Nepean/Ottawa-Ouest--Nepean,0.781440846946896,71.9
+190,Ontario,Ottawa--Vanier,0.8325590988987337,69.6
+191,Ontario,Oxford,0.8187538448018279,65.9
+192,Ontario,Parkdale--High Park,0.7764257157299757,72.5
+193,Ontario,Parry Sound--Muskoka,0.8830907434479544,66.0
+194,Ontario,Perth--Wellington,0.7738165844979056,66.7
+195,Ontario,Peterborough--Kawartha,0.8491656512320607,70.0
+196,Ontario,Pickering--Uxbridge,0.8228018451131947,68.8
+197,Ontario,Renfrew--Nipissing--Pembroke,0.8346973283733514,68.8
+198,Ontario,Richmond Hill,0.7721666046452527,59.6
+199,Ontario,St. Catharines,0.8166727847364604,66.5
+200,Ontario,Sarnia--Lambton,0.809459164396176,68.4
+201,Ontario,Sault Ste. Marie,0.8295031790073534,63.1
+202,Ontario,Scarborough Centre/Scarborough-Centre,0.6811363818015506,61.5
+203,Ontario,Scarborough North/Scarborough-Nord,0.6756983805668016,59.1
+204,Ontario,Scarborough Southwest/Scarborough-Sud-Ouest,0.7190101380148353,64.4
+205,Ontario,Scarborough--Agincourt,0.6813117052926797,58.8
+206,Ontario,Scarborough--Guildwood,0.6728068290586604,62.9
+207,Ontario,Scarborough--Rouge Park,0.7572622830603765,65.5
+208,Ontario,Simcoe North/Simcoe-Nord,0.876773973340998,64.7
+209,Ontario,Simcoe--Grey,0.8896447700547928,65.7
+210,Ontario,Spadina--Fort York,0.8073260263536093,65.4
+211,Ontario,Stormont--Dundas--South Glengarry,0.8225222609368951,63.8
+212,Ontario,Sudbury,0.8197679500065551,64.4
+213,Ontario,Thornhill,0.7541319564580949,63.6
+214,Ontario,Thunder Bay--Rainy River,0.8007487470563371,62.4
+215,Ontario,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,0.8055437925735925,65.5
+216,Ontario,Timmins--James Bay/Timmins--Baie James,0.7675390657842583,58.1
+217,Ontario,Toronto Centre/Toronto-Centre,0.800308270314532,66.1
+218,Ontario,Toronto--Danforth,0.7738292397660819,70.7
+219,Ontario,Toronto--St. Paul's,0.792808155699722,70.4
+220,Ontario,University--Rosedale,0.8003470391425641,69.1
+221,Ontario,Vaughan--Woodbridge,0.7658893070285475,63.0
+222,Ontario,Waterloo,0.8074436595420125,72.1
+223,Ontario,Wellington--Halton Hills,0.8192443441532141,70.7
+224,Ontario,Whitby,0.7678322440935682,70.5
+225,Ontario,Willowdale,0.6680667671147549,57.8
+226,Ontario,Windsor West/Windsor-Ouest,0.7719777539272125,55.3
+227,Ontario,Windsor--Tecumseh,0.8146880242529528,60.1
+228,Ontario,York Centre/York-Centre,0.6815632818566129,61.7
+229,Ontario,York South--Weston/York-Sud--Weston,0.6801501465471436,56.7
+230,Ontario,York--Simcoe,0.861032593019902,60.6
+231,Manitoba,Brandon--Souris,0.7190767834864467,65.3
+232,Manitoba,Charleswood--St. James--Assiniboia--Headingley,0.7986654394845836,70.5
+233,Manitoba,Churchill--Keewatinook Aski,0.5915635377526515,46.4
+234,Manitoba,Dauphin--Swan River--Neepawa,0.7226341586024884,64.6
+235,Manitoba,Elmwood--Transcona,0.7554831891996808,62.3
+236,Manitoba,Kildonan--St. Paul,0.7884439264007993,67.2
+237,Manitoba,Portage--Lisgar,0.6922879388622963,66.6
+238,Manitoba,Provencher,0.7171472595201409,67.8
+239,Manitoba,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,0.764111870671803,69.4
+240,Manitoba,Selkirk--Interlake--Eastman,0.7854037856886619,67.1
+241,Manitoba,Winnipeg Centre/Winnipeg-Centre,0.6953193172695435,53.5
+242,Manitoba,Winnipeg North/Winnipeg-Nord,0.6655901166436724,51.8
+243,Manitoba,Winnipeg South/Winnipeg-Sud,0.6979172936856679,69.3
+244,Manitoba,Winnipeg South Centre/Winnipeg-Centre-Sud,0.7711734172998184,71.0
+245,Saskatchewan,Battlefords--Lloydminster,0.7059695807144994,69.6
+246,Saskatchewan,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,0.7300463663187127,76.7
+247,Saskatchewan,Cypress Hills--Grasslands,0.7418108934501777,76.3
+248,Saskatchewan,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,0.6768842307204017,57.3
+249,Saskatchewan,Moose Jaw--Lake Centre--Lanigan,0.7487489496193546,75.8
+250,Saskatchewan,Prince Albert,0.7330235478806907,68.4
+251,Saskatchewan,Regina--Lewvan,0.744054703222037,75.5
+252,Saskatchewan,Regina--Qu'Appelle,0.7420971624768143,69.3
+253,Saskatchewan,Regina--Wascana,0.7183463453471652,75.6
+254,Saskatchewan,Saskatoon West/Saskatoon-Ouest,0.7355903047389232,64.0
+255,Saskatchewan,Saskatoon--Grasswood,0.7821233091408868,76.7
+256,Saskatchewan,Saskatoon--University,0.7501784353338253,76.3
+257,Saskatchewan,Souris--Moose Mountain,0.7256556756384663,79.0
+258,Saskatchewan,Yorkton--Melville,0.7552054736664273,72.8
+259,Alberta,Banff--Airdrie,0.7974543686745923,72.5
+260,Alberta,Battle River--Crowfoot,0.7542799597180262,75.4
+261,Alberta,Bow River,0.7008224513571317,68.7
+262,Alberta,Calgary Centre/Calgary-Centre,0.815004698932671,68.2
+263,Alberta,Calgary Confederation,0.7634626258983962,71.2
+264,Alberta,Calgary Forest Lawn,0.6767683090405079,53.3
+265,Alberta,Calgary Heritage,0.7321009572921034,70.7
+266,Alberta,Calgary Midnapore,0.7734890515741439,72.6
+267,Alberta,Calgary Nose Hill,0.7201951725031306,66.6
+268,Alberta,Calgary Rocky Ridge,0.7490195185969064,71.8
+269,Alberta,Calgary Shepard,0.7636930585683297,69.8
+270,Alberta,Calgary Signal Hill,0.7306082773164624,71.8
+271,Alberta,Calgary Skyview,0.625617033817137,60.1
+272,Alberta,Edmonton Centre/Edmonton-Centre,0.7559691107048326,64.3
+273,Alberta,Edmonton Griesbach,0.7408515678573655,56.8
+274,Alberta,Edmonton Manning,0.7432423501420924,60.8
+275,Alberta,Edmonton Mill Woods,0.6629583083813395,68.1
+276,Alberta,Edmonton Riverbend,0.7223467893399965,70.4
+277,Alberta,Edmonton Strathcona,0.7436501800765561,72.3
+278,Alberta,Edmonton West/Edmonton-Ouest,0.732335540621487,66.0
+279,Alberta,Edmonton--Wetaskiwin,0.7877466944673667,70.2
+280,Alberta,Foothills,0.7760781439056056,75.0
+281,Alberta,Fort McMurray--Cold Lake,0.718697269345913,64.7
+282,Alberta,Grande Prairie--Mackenzie,0.7392671763532691,70.7
+283,Alberta,Lakeland,0.7429899217157979,71.7
+284,Alberta,Lethbridge,0.7670834966011891,69.1
+285,Alberta,Medicine Hat--Cardston--Warner,0.744611585092052,67.0
+286,Alberta,Peace River--Westlock,0.6894375483108262,68.6
+287,Alberta,Red Deer--Lacombe,0.7383954777693228,71.3
+288,Alberta,Red Deer--Mountain View,0.763382317109033,75.3
+289,Alberta,St. Albert--Edmonton,0.7704697765284841,70.0
+290,Alberta,Sherwood Park--Fort Saskatchewan,0.7870418109056984,76.3
+291,Alberta,Sturgeon River--Parkland,0.7805835209961585,73.2
+292,Alberta,Yellowhead,0.7471832436089784,73.8
+293,British Columbia,Abbotsford,0.7412929459602805,65.4
+294,British Columbia,Burnaby North--Seymour/Burnaby-Nord--Seymour,0.7607770817477509,64.8
+295,British Columbia,Burnaby South/Burnaby-Sud,0.7172443356880677,56.6
+296,British Columbia,Cariboo--Prince George,0.7801886012836641,64.8
+297,British Columbia,Central Okanagan--Similkameen--Nicola,0.8667549164498201,68.3
+298,British Columbia,Chilliwack--Hope,0.8271977308591175,65.2
+299,British Columbia,Cloverdale--Langley City,0.7362291737504251,64.5
+300,British Columbia,Coquitlam--Port Coquitlam,0.7497653266006344,63.1
+301,British Columbia,Courtenay--Alberni,0.8873411428122847,71.4
+302,British Columbia,Cowichan--Malahat--Langford,0.8675915300040721,69.9
+303,British Columbia,Delta,0.7492043778622992,70.4
+304,British Columbia,Esquimalt--Saanich--Sooke,0.8295512852342883,70.3
+305,British Columbia,Fleetwood--Port Kells,0.6942492176678807,60.6
+306,British Columbia,Kamloops--Thompson--Cariboo,0.8367294424162499,69.9
+307,British Columbia,Kelowna--Lake Country,0.8502278285924884,68.4
+308,British Columbia,Kootenay--Columbia,0.8277586912793492,72.7
+309,British Columbia,Langley--Aldergrove,0.7990206551184871,68.3
+310,British Columbia,Mission--Matsqui--Fraser Canyon,0.7378855786976009,66.5
+311,British Columbia,Nanaimo--Ladysmith,0.8530519110096977,68.9
+312,British Columbia,New Westminster--Burnaby,0.7503381307438877,61.7
+313,British Columbia,North Island--Powell River,0.8576602886238219,69.9
+314,British Columbia,North Okanagan--Shuswap,0.8644275911881546,69.3
+315,British Columbia,North Vancouver,0.7705125537522541,71.2
+316,British Columbia,Pitt Meadows--Maple Ridge,0.7961741229067961,67.7
+317,British Columbia,Port Moody--Coquitlam,0.7460407699179729,65.8
+318,British Columbia,Prince George--Peace River--Northern Rockies,0.730609486913825,68.3
+319,British Columbia,Richmond Centre/Richmond-Centre,0.7518090166266922,53.0
+320,British Columbia,Saanich--Gulf Islands,0.8547871696214796,74.6
+321,British Columbia,Skeena--Bulkley Valley,0.758816914080072,61.7
+322,British Columbia,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,0.8690527050002179,68.8
+323,British Columbia,South Surrey--White Rock/Surrey-Sud--White Rock,0.8136779079489865,68.9
+324,British Columbia,Steveston--Richmond East/Steveston--Richmond-Est,0.7449280874360694,56.9
+325,British Columbia,Surrey Centre/Surrey-Centre,0.63850980261625,54.5
+326,British Columbia,Surrey--Newton,0.5912743772086733,62.9
+327,British Columbia,Vancouver Centre/Vancouver-Centre,0.7921729945123365,61.0
+328,British Columbia,Vancouver East/Vancouver-Est,0.8048978604265321,60.3
+329,British Columbia,Vancouver Granville,0.8021284410763996,64.2
+330,British Columbia,Vancouver Kingsway,0.7250786688280728,58.7
+331,British Columbia,Vancouver Quadra,0.7193299750018938,67.1
+332,British Columbia,Vancouver South/Vancouver-Sud,0.7269812585618933,58.3
+333,British Columbia,Victoria,0.8460724134103967,72.7
+334,British Columbia,West Vancouver--Sunshine Coast--Sea to Sky Country,0.8008781577157825,68.5
+335,Yukon,Yukon,0.8248592295255617,71.5
+336,Northwest Territories,Northwest Territories/Territoires du Nord-Ouest,0.734791556980807,53.5
+337,Nunavut,Nunavut,0.5571166258624527,47.7
